@@ -1,3 +1,5 @@
 # FizzBuzz
 
-To run this code you will need to download the repo as a zip file. After you do this you will need to extract the zip to a folder and navigate to this folder with your terminal or command line. When you are in the folder you will need to make sure that you have the path for the jdk set you can do this by using the set path=%path%;<address if the current jdk>. After this call javac Main.java. Then java Main . 
+To run this code you will need either need to download the repo as a zip file or clone with git.
+
+If you clone and use the Git Bash terminal on Windows you will need to navigate to a folder where you want to store the repo. Initialize the folder using git init. Then use git clone https://github.com/ColtonAarts/FizzBuzz.git. After this you will need to make sure that the path is set for your javac complier. When this is set you will need to cd into the FizzBuzz folder and run javac Main.java. After this run java Main. 
